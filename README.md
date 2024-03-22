@@ -1,9 +1,8 @@
 [線上版本（DC Bot）](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
 ### Feature 
 ```
-將TA給的chart.json / 太鼓達人 tja檔案轉為chart.txt的工具
+將TA給的chart.json 檔案轉為chart.txt的工具
 chart.json -> chart.txt
-songs.tja -> chart.txt
 ```
 ### How to use
 ```
@@ -16,12 +15,8 @@ There are 2 ways to use get the .txt file.
   去它的專案page可以查看指令列表
 
 2. You can download the python source code if you want to try it yourself.
-  (Only avaliable for json to txt)
-  (tja to txt source code will be hidden until semester ended)
 
   直接下載 Python source code 讓你在自己的電腦上跑
-  * 請注意此方法只提供 json to txt
-  因為tja to txt 為作業內容，期末後才會公布 source code
   
 
 After you get TA's .txt file,
