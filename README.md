@@ -20,6 +20,7 @@ to check if your answer are correct or not.
 
 ### Requirements
 ```
+如果要在自己的電腦上跑，請確定電腦可跑任一版本的 Python 3 
 Any version of Python3 if you want to run it locally.
 ```
 
