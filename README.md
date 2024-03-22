@@ -1,3 +1,4 @@
+[線上版本（DC Bot）](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
 ### Feature 
 ```
 將TA給的chart.json / 太鼓達人 tja檔案轉為chart.txt的工具
