@@ -1,8 +1,9 @@
 [線上版本（DC Bot）](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
 ### Feature 
 ```
-將TA給的chart.json 檔案轉為chart.txt的工具
-chart.json -> chart.txt
+將TA給的chart.json / input.tja 檔案轉為chart.txt的工具
+chart.json -> output.txt
+input.tja + hw0105.exe -> output.txt
 ```
 ### How to use
 ```
@@ -10,9 +11,12 @@ chart.json -> chart.txt
 There are 2 ways to use get the .txt file.
 1. Using NTNU_CP2_2024_bot developed by me.
   Check the command list in order to know the bot's command.
+  * only avaliable for json to txt.
   
   使用我前幾天寫的 NTNU_CP2_2024_bot
   去它的專案page可以查看指令列表
+  * 只提供 json to txt 轉檔功能
+
 
 2. You can download the python source code if you want to try it yourself.
 
