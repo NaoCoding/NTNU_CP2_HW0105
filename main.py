@@ -1,7 +1,6 @@
 import os
 import json
 
-
 while 1:
     print("請選擇模式:")
     print("1. chart.json - > output.txt")
